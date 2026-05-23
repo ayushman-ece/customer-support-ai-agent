@@ -24,6 +24,7 @@ OPENROUTER_API_KEY=YOUR_KEY
 Run:
 
 ```bash
+cd closira-assignment
 python app.py
 ```
 
