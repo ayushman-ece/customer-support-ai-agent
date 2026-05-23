@@ -1,0 +1,13 @@
+## Features
+- SOP-based response generation
+- Lead qualification workflow
+- Escalation handling
+- Out-of-scope request detection
+- Conversation summarization
+
+## Tech Stack
+- Python
+- JSON Knowledge Base
+- Prompt Engineering
+
+## Project Structure
